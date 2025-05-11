@@ -31,7 +31,7 @@ pip install 'isaacsim[all,extscache]==4.5.0' --extra-index-url https://pypi.nvid
 # Step 4: Clone Isaac Lab 4.5.0 and install it
 git clone https://github.com/isaac-sim/IsaacLab.git
 cd IsaacLab
-git checkout tags/v4.5.0 -b isaaclab-4.5.0
+git checkout tags/v2.1.0 -b isaaclab-v2.1.0
 ./isaaclab.sh --install
 
 # Step 6: Clone this validation repository (for modified example)
