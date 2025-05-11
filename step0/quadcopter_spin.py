@@ -9,7 +9,7 @@ This script demonstrates how to simulate a quadcopter.
 .. code-block:: bash
 
     # Usage
-    ./isaaclab.sh -p isaaclab-challenge/step0/quadcopter_spin.py
+    ./isaaclab.sh -p ../isaac-lab-challenge/step0/quadcopter_spin.py
 
 """
 
