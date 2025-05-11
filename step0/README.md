@@ -18,8 +18,8 @@ This repository contains deliverables for the Step 0 challenge, demonstrating a 
 # Step 1: Create and activate Conda environment
 ```bash
 # Step 1: Create and activate Conda environment
-conda create -n isaaclab_env python=3.10 -y
-conda activate isaaclab_env
+conda create -n isaac_lab_env python=3.10 -y
+conda activate isaac_lab_env
 
 # Step 2: Upgrade pip
 pip install --upgrade pip
