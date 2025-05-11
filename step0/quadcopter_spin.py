@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: BSD-3-Clause
 
 """
-This script demonstrates how to simulate a quadcopter.
+This script is a modification of IsaacLab/scripts/demos/quadcopter.py to make quadcopter spin in place.
 
 .. code-block:: bash
 
@@ -21,7 +21,7 @@ import torch
 from isaaclab.app import AppLauncher
 
 # add argparse arguments
-parser = argparse.ArgumentParser(description="This script demonstrates how to simulate a quadcopter.")
+parser = argparse.ArgumentParser(description="This script demonstrates how to simulate a quadcopter. This example is modified to make quadcopter spin in place")
 # append AppLauncher cli args
 AppLauncher.add_app_launcher_args(parser)
 # parse the arguments
