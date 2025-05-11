@@ -11,7 +11,8 @@ This repository contains deliverables for the Step 0 challenge, demonstrating a 
 
 ## Development Environment
 - OS: Ubuntu 22.04
-- Software: Conda, Isaac Sim 4.5.0, Isaac Lab 4.5.0
+- Software: Conda, Isaac Sim 4.5.0, Isaac Lab 4.5.0.
+- Package versions: A full list of installed packages can be found in environment.txt and pip-packages.txt.
 
 ---
 
